@@ -55,8 +55,8 @@ With hands-on experience in SQL, Python, Excel, and Power BI, I specialize in:
 - **Databases and SQL for Data Science – IBM** | [View Credential](https://www.credly.com/badges/99597554-6f95-4442-af42-72042ddc9044/public_url)  
 - **Python for Data Science and AI – IBM** | [View Credential](https://www.credly.com/badges/17c30d8c-8be8-4771-a8de-d9a185cf96d9/public_url)  
 - **Introduction to Data Analysis Using Python – Google** | [View Certificate](https://coursera.org/share/6242c8c37d0d3949f2bc44e4d94b00dd)
-- **Microsoft Power BI Data Analyst Professional Certificate**| [View Certificate](https://coursera.org/share/6242c8c37d0d3949f2bc44e4d94b00dd) 
-- **Meta Data Analyst Professional Certificate** | [View Certificate](https://coursera.org/share/6242c8c37d0d3949f2bc44e4d94b00dd)
+- **Microsoft Power BI Data Analyst Professional **| [View Certificate](https://coursera.org/share/6242c8c37d0d3949f2bc44e4d94b00dd) 
+- **Meta Data Analyst Professional ** | [View Certificate](https://coursera.org/share/6242c8c37d0d3949f2bc44e4d94b00dd)
 
   ---
 ## 🌐 Let's Connect  
