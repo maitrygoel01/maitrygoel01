@@ -12,6 +12,34 @@ With hands-on experience in SQL, Python, Excel, and Power BI, I specialize in:
 
 ---
 
+## 📊 Project Stats
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>8</h2>
+<b>Excel Projects</b>
+</td>
+
+<td align="center" width="25%">
+<h2>24</h2>
+<b>Power BI Projects</b>
+</td>
+
+<td align="center" width="25%">
+<h2>7</h2>
+<b>SQL Projects</b>
+</td>
+
+<td align="center" width="25%">
+<h2>3</h2>
+<b>Python Projects</b>
+</td>
+</tr>
+</table>
+
+---
+
 ## 💼 Featured Work  
 
 ---
