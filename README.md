@@ -15,7 +15,7 @@ With hands-on experience in SQL, Python, Excel, and Power BI, I specialize in:
 ## 📊 Project Stats
 
 
-42+ projects spanning Power BI, SQL, Excel, and Python—focused on analytics, reporting, and business decision-making.
+42+ projects spanning Power BI, SQL, Excel, and Python : focused on analytics, reporting, and business decision-making.
 
 <table>
 <tr>
