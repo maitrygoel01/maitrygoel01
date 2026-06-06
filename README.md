@@ -14,26 +14,33 @@ With hands-on experience in SQL, Python, Excel, and Power BI, I specialize in:
 
 ## 📊 Project Stats
 
+
+42+ projects spanning Power BI, SQL, Excel, and Python—focused on analytics, reporting, and business decision-making.
+
 <table>
 <tr>
 <td align="center" width="25%">
-<h2>8</h2>
-<b>Excel Projects</b>
+<h1>8</h1>
+<a href="YOUR_EXCEL_PROJECTS_LINK"><b>Excel Projects</b></a><br>
+Interactive Dashboards & KPI Tracking
 </td>
 
 <td align="center" width="25%">
-<h2>24</h2>
-<b>Power BI Projects</b>
+<h1>24</h1>
+<a href="YOUR_POWERBI_PROJECTS_LINK"><b>Power BI Projects</b></a><br>
+Business Intelligence & Data Visualization
 </td>
 
 <td align="center" width="25%">
-<h2>7</h2>
-<b>SQL Projects</b>
+<h1>7</h1>
+<a href="YOUR_SQL_PROJECTS_LINK"><b>SQL Projects</b></a><br>
+Data Analysis & Query Optimization
 </td>
 
 <td align="center" width="25%">
-<h2>3</h2>
-<b>Python Projects</b>
+<h1>3</h1>
+<a href="YOUR_PYTHON_PROJECTS_LINK"><b>Python Projects</b></a><br>
+EDA, Automation & Analytics
 </td>
 </tr>
 </table>
