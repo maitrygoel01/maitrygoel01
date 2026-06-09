@@ -51,6 +51,23 @@ EDA, Automation & Analytics
 
 ---
 
+## 📂 Power BI Repositories
+
+| No. | Project Name | Domain | Repository |
+|------|-------------|----------|------------|
+| 1 | Electric Vehicle Analysis Dashboard | Automotive Analytics | [View Project](https://github.com/maitrygoel01/electric-vehicle-analysis-dashboard) |
+| 2 | Insurance Risk & Claims Analysis Dashboard | Insurance Analytics | [View Project](https://github.com/maitrygoel01/Insurance-Risk-Claims-Analysis) |
+| 3 | Road Accident Analysis Dashboard | Transportation Analytics | [View Project](https://github.com/maitrygoel01/road-accident-analytics) |
+| 4 | Hospital Emergency Department Analytics Dashboard | Healthcare Analytics | [View Project](https://github.com/maitrygoel01/Emergency-Department-Operational-Analysis) |
+| 5 | Spotify Streaming Behavior Analysis | Entertainment Analytics | [View Project](https://github.com/maitrygoel01/Spotify-Streaming-Behavior-Analysis) |
+| 6 | Shopify Sales & Customer Funnel Analytics Dashboard | E-Commerce Analytics | [View Project](https://github.com/maitrygoel01/Shopify-Sales-Customer-Funnel-Analytics) |
+| 7 | Logistics Network Performance Analysis | Supply Chain Analytics | [View Project](https://github.com/maitrygoel01/Logistics-Network-Performance-Analysis) |
+| 8 | Order Level Revenue Analysis | Sales Analytics | [View Project](https://github.com/maitrygoel01/Order_Level-Revenue-Analysis) |
+| 9 | Meta Ad Performance Dashboard | Marketing Analytics | [View Project](https://github.com/maitrygoel01/Meta-Ad-Performance) |
+| 10 | HR Metrics Dashboard | Human Resources Analytics | [View Project](https://github.com/maitrygoel01/HR-Metrics-Dashboard) |
+
+
+---
 ## 🛠 Tech Stack  
 
 ### 📊 Data & Business Intelligence  
