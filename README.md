@@ -73,43 +73,42 @@ EDA, Automation & Analytics
 | 10 | HR Metrics Dashboard | Human Resources Analytics | [View Project](https://github.com/maitrygoel01/HR-Metrics-Dashboard) |
 
 ---
-
 # 🛠 Tech Stack
 
 ### 📊 Analytics & BI
 
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 ### 🐍 Programming & Data
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ### ⚙️ Workflow
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ### 🤖 AI Productivity
 
 <p>
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gamma-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gamma-FF6B00?style=for-the-badge"/>
 </p>
 
 ---
@@ -123,7 +122,6 @@ EDA, Automation & Analytics
 | 📉 **Statistics** | Hypothesis Testing • Regression Analysis • Correlation Analysis • Descriptive Statistics • Inferential Statistics |
 | ⚙️ **Data Engineering** | SQL Joins • CTEs • Window Functions • DAX • Data Modeling • ETL Basics • Query Optimization |
 
----
 
 # 🌐 Let's Connect
 
