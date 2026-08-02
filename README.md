@@ -125,22 +125,6 @@ EDA, Automation & Analytics
 
 ---
 
-# 📜 Certifications
-
-- 🏅 **Google Data Analytics Professional Certificate**  
-  [View Certificate](https://coursera.org/share/75242001d663a3ec4c4869e556fd8f44)
-
-- 🏅 **Microsoft Power BI Data Analyst Professional**  
-  [View Certificate](https://coursera.org/share/f58a7ba74bb95a6842e62e5cf6273d19)
-
-- 🏅 **Databases and SQL for Data Science – IBM**  
-  [View Credential](https://www.credly.com/badges/99597554-6f95-4442-af42-72042ddc9044/public_url)
-
-- 🏅 **Python for Data Science and AI – IBM**  
-  [View Credential](https://www.credly.com/badges/17c30d8c-8be8-4771-a8de-d9a185cf96d9/public_url)
-
----
-
 # 🌐 Let's Connect
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/maitrygoel/
