@@ -118,14 +118,14 @@ EDA, Automation & Analytics
 
 ---
 
-# 📜 Certifications
+<h1>📜 Certifications</h1>
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="25%">
 
-<img src="https://cdn.simpleicons.org/google" width="45"><br><br>
+<img src="https://img.icons8.com/color/96/google-logo.png" width="60"/><br><br>
 
 <b>Google</b><br>
 Data Analytics<br>
@@ -134,14 +134,14 @@ Professional Certificate
 <br><br>
 
 <a href="https://coursera.org/share/75242001d663a3ec4c4869e556fd8f44">
-<img src="https://img.shields.io/badge/Google-Certified-34A853?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Google-Certified-34A853?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://cdn.simpleicons.org/microsoft" width="45"><br><br>
+<img src="https://img.icons8.com/color/96/microsoft.png" width="60"/><br><br>
 
 <b>Microsoft</b><br>
 Power BI Data Analyst<br>
@@ -150,14 +150,14 @@ Professional
 <br><br>
 
 <a href="https://coursera.org/share/f58a7ba74bb95a6842e62e5cf6273d19">
-<img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://cdn.simpleicons.org/ibm" width="45"><br><br>
+<img src="https://img.icons8.com/color/96/ibm.png" width="60"/><br><br>
 
 <b>IBM</b><br>
 Databases & SQL<br>
@@ -166,14 +166,14 @@ for Data Science
 <br><br>
 
 <a href="https://www.credly.com/badges/99597554-6f95-4442-af42-72042ddc9044/public_url">
-<img src="https://img.shields.io/badge/IBM-Certified-1261FE?style=for-the-badge&logo=ibm&logoColor=white">
+<img src="https://img.shields.io/badge/IBM-Certified-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
 </a>
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://cdn.simpleicons.org/ibm" width="45"><br><br>
+<img src="https://img.icons8.com/color/96/ibm.png" width="60"/><br><br>
 
 <b>IBM</b><br>
 Python for Data<br>
@@ -182,7 +182,7 @@ Science & AI
 <br><br>
 
 <a href="https://www.credly.com/badges/17c30d8c-8be8-4771-a8de-d9a185cf96d9/public_url">
-<img src="https://img.shields.io/badge/IBM-Certified-1261FE?style=for-the-badge&logo=ibm&logoColor=white">
+<img src="https://img.shields.io/badge/IBM-Certified-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
 </a>
 
 </td>
