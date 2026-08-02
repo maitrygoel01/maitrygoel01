@@ -111,16 +111,10 @@ EDA, Automation & Analytics
   <img src="https://img.shields.io/badge/Gamma-FF6B00?style=for-the-badge"/>
 </p>
 
----
 
 # 🧠 Core Competencies
 
-| Area | Skills |
-|------|--------|
-| 📊 **Data Analytics** | Data Cleaning • Data Transformation • Exploratory Data Analysis (EDA) • KPI Development • Dashboard Design • Data Storytelling |
-| 📈 **Business Analysis** | Funnel Analysis • Cohort Analysis • Trend Analysis • Gap Analysis • Revenue Analysis • Stakeholder Communication |
-| 📉 **Statistics** | Hypothesis Testing • Regression Analysis • Correlation Analysis • Descriptive Statistics • Inferential Statistics |
-| ⚙️ **Data Engineering** | SQL Joins • CTEs • Window Functions • DAX • Data Modeling • ETL Basics • Query Optimization |
+
 
 ---
 
