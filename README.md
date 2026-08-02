@@ -123,6 +123,82 @@ EDA, Automation & Analytics
 | ⚙️ **Data Engineering** | SQL Joins • CTEs • Window Functions • DAX • Data Modeling • ETL Basics • Query Optimization |
 
 
+# 📜 Certifications
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<img src="https://cdn.simpleicons.org/google" width="50"><br><br>
+
+<b>Google Data Analytics</b><br>
+Professional Certificate
+
+<br><br>
+
+<a href="https://coursera.org/share/75242001d663a3ec4c4869e556fd8f44">
+<img src="https://img.shields.io/badge/View-Credential-blue?style=for-the-badge">
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://cdn.simpleicons.org/microsoft" width="50"><br><br>
+
+<b>Microsoft Power BI</b><br>
+Data Analyst Professional
+
+<br><br>
+
+<a href="https://coursera.org/share/f58a7ba74bb95a6842e62e5cf6273d19">
+<img src="https://img.shields.io/badge/View-Credential-blue?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/ibm" width="50"><br><br>
+
+<b>Databases & SQL</b><br>
+for Data Science
+
+<br><br>
+
+<a href="https://www.credly.com/badges/99597554-6f95-4442-af42-72042ddc9044/public_url">
+<img src="https://img.shields.io/badge/View-Credential-blue?style=for-the-badge">
+</a>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/ibm" width="50"><br><br>
+
+<b>Python for</b><br>
+Data Science & AI
+
+<br><br>
+
+<a href="https://www.credly.com/badges/17c30d8c-8be8-4771-a8de-d9a185cf96d9/public_url">
+<img src="https://img.shields.io/badge/View-Credential-blue?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+
+
 # 🌐 Let's Connect
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/maitrygoel/
